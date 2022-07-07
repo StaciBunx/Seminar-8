@@ -1,0 +1,15 @@
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\bin\Debug\net6.0\S8Task003.exe
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\bin\Debug\net6.0\S8Task003.deps.json
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\bin\Debug\net6.0\S8Task003.runtimeconfig.json
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\bin\Debug\net6.0\S8Task003.dll
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\bin\Debug\net6.0\S8Task003.pdb
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.csproj.AssemblyReference.cache
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.AssemblyInfoInputs.cache
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.AssemblyInfo.cs
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.csproj.CoreCompileInputs.cache
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.dll
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\refint\S8Task003.dll
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.pdb
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\S8Task003.genruntimeconfig.cache
+C:\Users\79055\Desktop\Семинары\Seminar 8\Homework\S8Task003\obj\Debug\net6.0\ref\S8Task003.dll
